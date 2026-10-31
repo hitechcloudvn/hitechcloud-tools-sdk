@@ -42,3 +42,5 @@ sdk/csharp/HiTechCloud.Tools/bin/
 sdk/csharp/HiTechCloud.Tools/obj/
 sdk/csharp/Tests/bin/
 sdk/csharp/Tests/obj/
+*.dll
+*.class

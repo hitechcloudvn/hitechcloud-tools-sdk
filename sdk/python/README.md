@@ -1,5 +1,9 @@
 # HiTechCloud Tools SDK - Python
 
+> **English** | [Tiếng Việt](README.vi.md)
+
+---
+
 Official Python SDK for HiTechCloud Tools API (455 endpoints, 15 groups).
 
 ## Installation
@@ -27,21 +31,21 @@ result = client.domains.ssl(domain="example.com")
 
 ## API Groups
 
-- **Mạng & Hạ tầng** (46 endpoints)
-- **Tên miền & SSL** (53 endpoints)
+- **Network & Infrastructure** (46 endpoints)
+- **Domains & SSL** (53 endpoints)
 - **Email & DNS** (17 endpoints)
-- **Công cụ lập trình** (25 endpoints)
+- **Developer Tools** (25 endpoints)
 - **SEO & Web** (13 endpoints)
-- **Dữ liệu Việt Nam** (66 endpoints)
-- **Xuất nhập khẩu & Logistics** (15 endpoints)
-- **Dược phẩm & Y tế** (5 endpoints)
-- **Mã hoá & Kiểm tra** (39 endpoints)
-- **Chuyển đổi & Định dạng** (45 endpoints)
-- **Thời gian & Lịch** (18 endpoints)
-- **Tài chính & Tỷ giá** (16 endpoints)
-- **Pháp lý & Thủ tục** (28 endpoints)
-- **QR & Thanh toán** (5 endpoints)
-- **Doanh nghiệp & Thuế** (64 endpoints)
+- **Vietnam Data** (66 endpoints)
+- **Import/Export & Logistics** (15 endpoints)
+- **Pharma & Healthcare** (5 endpoints)
+- **Encryption & Validation** (39 endpoints)
+- **Conversion & Formatting** (45 endpoints)
+- **Time & Calendar** (18 endpoints)
+- **Finance & Exchange Rates** (16 endpoints)
+- **Legal & Procedures** (28 endpoints)
+- **QR & Payments** (5 endpoints)
+- **Business & Tax** (64 endpoints)
 
 ## License
 

@@ -1,5 +1,9 @@
 # Contributing to HiTechCloud Tools SDK
 
+> **English** | [Tiếng Việt](CONTRIBUTING.vi.md)
+
+---
+
 Thank you for your interest in contributing!
 
 ## Development Setup

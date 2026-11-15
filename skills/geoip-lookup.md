@@ -1,9 +1,15 @@
+# GeoIP Lookup
+
+> **English** | [Tiếng Việt](geoip-lookup.vi.md)
+
+---
+
+```yaml
 ---
 name: hitechcloud-geoip-lookup
 description: Look up IP geolocation using HiTechCloud Tools API
 ---
-
-# GeoIP Lookup
+```
 
 Use this skill when the user wants to look up IP address geolocation.
 

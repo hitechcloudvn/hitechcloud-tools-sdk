@@ -1,9 +1,15 @@
+# Developer Tools
+
+> **English** | [Tiếng Việt](developer-tools.vi.md)
+
+---
+
+```yaml
 ---
 name: hitechcloud-developer-tools
 description: Developer utilities (hashing, encoding, regex, conversion)
 ---
-
-# Developer Tools
+```
 
 Use this skill for developer utility operations.
 

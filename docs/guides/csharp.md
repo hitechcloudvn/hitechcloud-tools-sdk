@@ -1,5 +1,9 @@
 # Csharp SDK Guide
 
+> **English** | [Tiếng Việt](csharp.vi.md)
+
+---
+
 ## Installation
 
 ```csharp

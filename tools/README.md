@@ -1,5 +1,9 @@
 # Development Tools
 
+> **English** | [Tiếng Việt](README.vi.md)
+
+---
+
 ## Scripts
 
 - `validate_spec.py` — Validate the OpenAPI specification

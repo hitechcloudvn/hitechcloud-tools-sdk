@@ -1,5 +1,9 @@
 # Finance Agent
 
+> **English** | [Tiếng Việt](finance-agent.vi.md)
+
+---
+
 An AI agent for financial tools and exchange rates.
 
 ## System Prompt

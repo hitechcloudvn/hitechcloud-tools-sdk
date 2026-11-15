@@ -1,5 +1,9 @@
 # Authentication
 
+> **English** | [Tiếng Việt](authentication.vi.md)
+
+---
+
 The HiTechCloud Tools API uses API key authentication.
 
 ## API Key

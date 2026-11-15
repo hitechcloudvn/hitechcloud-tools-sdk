@@ -1,9 +1,15 @@
+# Vietnam Data Lookup
+
+> **English** | [Tiếng Việt](vietnam-data.vi.md)
+
+---
+
+```yaml
 ---
 name: hitechcloudvn-data
 description: Query Vietnamese administrative data (provinces, districts, wards)
 ---
-
-# Vietnam Data Lookup
+```
 
 Use this skill when the user needs Vietnamese administrative data.
 

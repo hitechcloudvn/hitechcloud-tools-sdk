@@ -1,5 +1,9 @@
 # HiTechCloud Tools MCP Server
 
+> **English** | [Tiếng Việt](README.vi.md)
+
+---
+
 Model Context Protocol server for the HiTechCloud Tools API.
 
 ## Setup

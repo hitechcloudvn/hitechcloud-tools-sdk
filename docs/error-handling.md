@@ -1,5 +1,9 @@
 # Error Handling
 
+> **English** | [Tiếng Việt](error-handling.vi.md)
+
+---
+
 ## HTTP Status Codes
 
 | Code | Meaning |

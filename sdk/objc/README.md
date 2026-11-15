@@ -1,5 +1,9 @@
 # HiTechCloud hitechcloud-tools-sdk — Objective-C SDK
 
+> **English** | [Tiếng Việt](README.vi.md)
+
+---
+
 > **Status:** Planned — contributions welcome!
 
 ## Installation
@@ -12,21 +16,21 @@ pod 'HiTechCloudSDK'
 
 | Resource | Description | Methods |
 |----------|-------------|---------|
-| `ChuyenDoiAndDinhDang` | Chuyển đổi & Định dạng | 37 |
-| `CongCuLapTrinh` | Công cụ lập trình | 23 |
-| `DoanhNghiepAndThue` | Doanh nghiệp & Thuế | 64 |
-| `DuLieuVietNam` | Dữ liệu Việt Nam | 64 |
-| `DuocPhamAndYTe` | Dược phẩm & Y tế | 5 |
+| `ChuyenDoiAndDinhDang` | Conversion & Formatting | 37 |
+| `CongCuLapTrinh` | Developer Tools | 23 |
+| `DoanhNghiepAndThue` | Business & Tax | 64 |
+| `DuLieuVietNam` | Vietnam Data | 64 |
+| `DuocPhamAndYTe` | Pharma & Healthcare | 5 |
 | `EmailAndDns` | Email & DNS | 17 |
-| `MaHoaAndKiemTra` | Mã hoá & Kiểm tra | 28 |
-| `MangAndHaTang` | Mạng & Hạ tầng | 43 |
-| `PhapLyAndThuTuc` | Pháp lý & Thủ tục | 26 |
-| `QrAndThanhToan` | QR & Thanh toán | 5 |
+| `MaHoaAndKiemTra` | Encryption & Validation | 28 |
+| `MangAndHaTang` | Network & Infrastructure | 43 |
+| `PhapLyAndThuTuc` | Legal & Procedures | 26 |
+| `QrAndThanhToan` | QR & Payments | 5 |
 | `SeoAndWeb` | SEO & Web | 12 |
-| `TaiChinhAndTyGia` | Tài chính & Tỷ giá | 15 |
-| `TenMienAndSsl` | Tên miền & SSL | 52 |
-| `ThoiGianAndLich` | Thời gian & Lịch | 17 |
-| `XuatNhapKhauAndLogistics` | Xuất nhập khẩu & Logistics | 15 |
+| `TaiChinhAndTyGia` | Finance & Exchange Rates | 15 |
+| `TenMienAndSsl` | Domains & SSL | 52 |
+| `ThoiGianAndLich` | Time & Calendar | 17 |
+| `XuatNhapKhauAndLogistics` | Import/Export & Logistics | 15 |
 
 ## License
 

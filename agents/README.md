@@ -1,5 +1,9 @@
 # HiTechCloud Tools SDK Agents
 
+> **English** | [Tiếng Việt](README.vi.md)
+
+---
+
 AI agent configurations for the HiTechCloud Tools API.
 
 ## Available Agents

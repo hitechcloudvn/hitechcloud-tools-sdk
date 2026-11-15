@@ -1,5 +1,9 @@
 # Vietnam Data Agent
 
+> **English** | [Tiếng Việt](vietnam-data-agent.vi.md)
+
+---
+
 An AI agent for Vietnamese administrative and reference data.
 
 ## System Prompt

@@ -1,5 +1,9 @@
 # Getting Started
 
+> **English** | [Tiếng Việt](getting-started.vi.md)
+
+---
+
 ## Installation
 
 ### Python

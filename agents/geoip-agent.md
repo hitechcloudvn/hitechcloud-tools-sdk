@@ -1,5 +1,9 @@
 # GeoIP Agent
 
+> **English** | [Tiếng Việt](geoip-agent.vi.md)
+
+---
+
 An AI agent for IP geolocation and network infrastructure tools.
 
 ## System Prompt

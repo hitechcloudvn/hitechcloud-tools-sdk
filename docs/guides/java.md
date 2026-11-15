@@ -1,5 +1,9 @@
 # Java SDK Guide
 
+> **English** | [Tiếng Việt](java.vi.md)
+
+---
+
 ## Installation
 
 ```java

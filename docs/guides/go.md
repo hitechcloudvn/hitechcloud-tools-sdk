@@ -1,5 +1,9 @@
 # Go SDK Guide
 
+> **English** | [Tiếng Việt](go.vi.md)
+
+---
+
 ## Installation
 
 ```bash

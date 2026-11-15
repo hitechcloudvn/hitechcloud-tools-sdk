@@ -1,5 +1,9 @@
 # Nodejs SDK Guide
 
+> **English** | [Tiếng Việt](nodejs.vi.md)
+
+---
+
 ## Installation
 
 ```bash

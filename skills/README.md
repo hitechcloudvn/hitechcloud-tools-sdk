@@ -1,5 +1,9 @@
 # HiTechCloud Tools SDK Skills
 
+> **English** | [Tiếng Việt](README.vi.md)
+
+---
+
 Skills for AI coding assistants.
 
 ## Available Skills

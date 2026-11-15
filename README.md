@@ -1,5 +1,9 @@
 # HiTechCloud Tools SDK
 
+> **English** | [Tiếng Việt](README.vi.md)
+
+---
+
 [![CI](https://github.com/hitechcloudvn/hitechcloud-tools-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/hitechcloudvn/hitechcloud-tools-sdk/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -34,21 +38,21 @@ Official multi-language SDK for HiTechCloud Tools API — **455 endpoints** acro
 
 | # | Group | Endpoints |
 |---|-------|-----------|
-| 1 | Mạng & Hạ tầng | 46 |
-| 2 | Tên miền & SSL | 53 |
+| 1 | Network & Infrastructure | 46 |
+| 2 | Domains & SSL | 53 |
 | 3 | Email & DNS | 17 |
-| 4 | Công cụ lập trình | 25 |
+| 4 | Developer Tools | 25 |
 | 5 | SEO & Web | 13 |
-| 6 | Dữ liệu Việt Nam | 66 |
-| 7 | Xuất nhập khẩu & Logistics | 15 |
-| 8 | Dược phẩm & Y tế | 5 |
-| 9 | Mã hoá & Kiểm tra | 39 |
-| 10 | Chuyển đổi & Định dạng | 45 |
-| 11 | Thời gian & Lịch | 18 |
-| 12 | Tài chính & Tỷ giá | 16 |
-| 13 | Pháp lý & Thủ tục | 28 |
-| 14 | QR & Thanh toán | 5 |
-| 15 | Doanh nghiệp & Thuế | 64 |
+| 6 | Vietnam Data | 66 |
+| 7 | Import/Export & Logistics | 15 |
+| 8 | Pharma & Healthcare | 5 |
+| 9 | Encryption & Validation | 39 |
+| 10 | Conversion & Formatting | 45 |
+| 11 | Time & Calendar | 18 |
+| 12 | Finance & Exchange Rates | 16 |
+| 13 | Legal & Procedures | 28 |
+| 14 | QR & Payments | 5 |
+| 15 | Business & Tax | 64 |
 
 ## Quick Start
 

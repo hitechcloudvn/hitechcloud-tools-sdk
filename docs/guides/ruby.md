@@ -1,5 +1,9 @@
 # Ruby SDK Guide
 
+> **English** | [Tiếng Việt](ruby.vi.md)
+
+---
+
 ## Installation
 
 ```bash

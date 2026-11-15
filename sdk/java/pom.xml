@@ -4,6 +4,12 @@
   <groupId>vn.hitechcloud</groupId>
   <artifactId>hitechcloud-tools-sdk</artifactId>
   <version>1.0.0</version>
+    <scm>
+        <connection>scm:git:https://github.com/hitechcloudvn/hitechcloud-tools-sdk.git</connection>
+        <developerConnection>scm:git:https://github.com/hitechcloudvn/hitechcloud-tools-sdk.git</developerConnection>
+        <url>https://github.com/hitechcloudvn/hitechcloud-tools-sdk</url>
+    </scm>
+
   <properties>
     <maven.compiler.source>11</maven.compiler.source>
     <maven.compiler.target>11</maven.compiler.target>

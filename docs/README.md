@@ -19,4 +19,4 @@ Welcome to the HiTechCloud Tools SDK documentation.
 ## Quick Links
 
 - [API Documentation](https://doc-api-tools.hitechcloud.vn)
-- [GitHub Repository](https://github.com/hitechcloud-vietnam/hitechcloud-tools-sdk)
+- [GitHub Repository](https://github.com/hitechcloudvn/hitechcloud-tools-sdk)

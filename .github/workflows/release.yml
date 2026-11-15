@@ -35,7 +35,7 @@ jobs:
         with:
           node-version: '20'
           registry-url: 'https://npm.pkg.github.com'
-          scope: '@hitechcloud-vietnam'
+          scope: '@hitechcloudvn'
 
       - name: Publish npm to GitHub Packages
         working-directory: sdk/nodejs

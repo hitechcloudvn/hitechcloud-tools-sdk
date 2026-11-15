@@ -1,5 +1,5 @@
 {
-  "name": "@hitechcloud/tools-mcp-server",
+  "name": "@hitechcloudvn/tools-mcp-server",
   "version": "1.0.0",
   "description": "MCP server for HiTechCloud Tools API",
   "main": "server.js",
@@ -8,5 +8,16 @@
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.0.0"
-  }
+  },
+  "homepage": "https://developers.hitechcloud.vn/tai-lieu/tools",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hitechcloudvn/hitechcloud-tools-sdk.git",
+    "directory": "mcp"
+  },
+  "bugs": {
+    "url": "https://github.com/hitechcloudvn/hitechcloud-tools-sdk/issues"
+  },
+  "author": "HiTechCloud Vietnam <support@hitechcloud.vn>",
+  "license": "MIT"
 }

@@ -1,3 +1,3 @@
-module github.com/hitechcloud-vietnam/hitechcloud-tools-sdk
+module github.com/hitechcloudvn/hitechcloud-tools-sdk
 
 go 1.21

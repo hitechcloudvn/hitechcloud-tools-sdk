@@ -25,5 +25,10 @@
       "name": "HiTechCloud",
       "email": "support@hitechcloud.vn"
     }
-  ]
+  ],
+  "homepage": "https://developers.hitechcloud.vn/tai-lieu/tools",
+  "support": {
+    "issues": "https://github.com/hitechcloudvn/hitechcloud-tools-sdk/issues",
+    "source": "https://github.com/hitechcloudvn/hitechcloud-tools-sdk"
+  }
 }

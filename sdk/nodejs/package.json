@@ -1,5 +1,5 @@
 {
-  "name": "@hitechcloud-vietnam/hitechcloud-tools-sdk",
+  "name": "@hitechcloudvn/hitechcloud-tools-sdk",
   "version": "1.0.0",
   "description": "Official Node.js SDK for HiTechCloud Tools API (455 endpoints)",
   "main": "src/index.js",
@@ -28,5 +28,14 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
+  },
+  "homepage": "https://developers.hitechcloud.vn/tai-lieu/tools",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hitechcloudvn/hitechcloud-tools-sdk.git",
+    "directory": "sdk/nodejs"
+  },
+  "bugs": {
+    "url": "https://github.com/hitechcloudvn/hitechcloud-tools-sdk/issues"
   }
 }

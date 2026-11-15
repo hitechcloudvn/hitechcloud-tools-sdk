@@ -1,5 +1,8 @@
 # HiTechCloud Tools SDK
 
+[![CI](https://github.com/hitechcloudvn/hitechcloud-tools-sdk/actions/workflows/ci.yml/badge.svg)](https://github.com/hitechcloudvn/hitechcloud-tools-sdk/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Official multi-language SDK for HiTechCloud Tools API — **455 endpoints** across **15 groups**.
 
 ## Supported Languages
@@ -9,7 +12,7 @@ Official multi-language SDK for HiTechCloud Tools API — **455 endpoints** acro
 | Python | ✅ Full | `pip install hitechcloud-tools-sdk` |
 | Node.js | ✅ Full | `npm install hitechcloud-tools-sdk` |
 | PHP | ✅ Full | `composer require hitechcloud/tools-sdk` |
-| Go | ✅ Full | `go get github.com/hitechcloud-vietnam/hitechcloud-tools-sdk` |
+| Go | ✅ Full | `go get github.com/hitechcloudvn/hitechcloud-tools-sdk` |
 | Ruby | ✅ Full | `gem install hitechcloud_tools` |
 | Java | ✅ Full | Maven: `vn.hitechcloud:hitechcloud-tools-sdk` |
 | C# | ✅ Full | NuGet: `HiTechCloud.Tools` |

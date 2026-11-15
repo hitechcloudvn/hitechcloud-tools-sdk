@@ -1,5 +1,5 @@
 ---
-name: hitechcloud-vietnam-data
+name: hitechcloudvn-data
 description: Query Vietnamese administrative data (provinces, districts, wards)
 ---
 

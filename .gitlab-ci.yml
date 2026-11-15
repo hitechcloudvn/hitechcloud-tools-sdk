@@ -83,7 +83,7 @@ release:
     - |
       VERSION="${CI_COMMIT_TAG#v}"
       awk -v ver="$VERSION" '
-        $0 ~ "^## \[" ver "\]" { flag=1; next }
+        $0 ~ "^## \\[" ver "\\]" { flag=1; next }
         flag && $0 ~ /^## \[/ { exit }
         flag { print }
       ' CHANGELOG.md > release-notes.md
